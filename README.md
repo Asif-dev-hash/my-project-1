@@ -1,2 +1,3 @@
 # my-project-1
-this is my first project. on github
+this is my first project on github
+Author: Muhammad Asif 
